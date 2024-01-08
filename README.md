@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/vedantkingh/vedantkingh/blob/main/Assets/header.png">
+
+<!--![GitHub Snake](https://raw.githubusercontent.com/vedantkingh/vedantkingh/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 <!--
 **vedantkingh/vedantkingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
