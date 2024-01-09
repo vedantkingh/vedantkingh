@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/vedantkingh/vedantkingh/blob/main/Assets/header.png">
 
-![GitHub Snake](https://raw.githubusercontent.com/vedantkingh/vedantkingh/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/vedantkingh/vedantkingh/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
