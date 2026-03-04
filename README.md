@@ -3,11 +3,12 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/vedantkingh/vedantkingh/output/github-contribution-grid-snake-dark.svg)
 <br/>
-![vedantkingh's Stats](https://github-readme-stats.vercel.app/api?username=vedantkingh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</div>
 
 
 <!--
+![vedantkingh's Stats](https://github-readme-stats.vercel.app/api?username=vedantkingh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
+
 **vedantkingh/vedantkingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
